@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <link href="styles.css" rel="stylesheet">
+    <title id="title">Hedy Lamarr tribute Page, The Hollywood beauty who led the way to WiFi </title>
+  </head>
+  <main id="main">
+  <header class="header">
+    <h1>Hedy Lamarr Tribute Page</header>
+    <body>
+      <div id="img-div">
+       
+      <img src="https://media.kasperskydaily.com/wp-content/uploads/sites/103/2015/11/06023737/hedy-lamarr-featured.jpg" alt="hedy lamarr lounging on a pillow" img-caption="hedy lamarr lounging on a pillow" id="image">
+       <figcaption id="img-caption">The Hollywood beauty who led the way to WiFi</figcaption>
+      </div>
+      <div id="tribute-info">
+      <h1>A timeline of Hedy Lamarr's life</h1>
+      <p>Born Hedwig Eva Maria Kiesler on November 9, 1914 in Vienna, the only child of Gertrud "Trude" Kiesler (née Lichtwitz) and Emil Kiesler.</p>
+      <p> At the age of 12, she won a beauty contest in Vienna.</p>
+      <p>Started acting in films in 1930 despite no formal training</p>
+      <p>In early 1933, at age 18, Lamarr was given the lead in Gustav Machatý's film Ecstasy. The film became both celebrated and notorious for showing Lamarr's face in the throes of orgasm (Lamarr became the first actress to imitate an orgasm on camera, to look convincing, Hedy was deliberately poked with a safety pin when filming the scene.) as well as close-up and brief scenes of nudity (for the first time in the entire history of the cinematography).</p>
+      <p><a target="blank" href="https://en.wikipedia.org/wiki/Ecstasy_(film)"> Ecstasy</a> was controversial in some countries because of the scenes in which Lamarr is running and swimming naked, and the orgasm scene. Lamarr later claimed in interviews she was tricked into the nude scenes by the director and there was no mention of the nude scenes in the script. Disillusioned following the release of the film Hedy instead turned to stage acting, whilst appearing in a play in Vienna called "Sissy" she met her first husband, Friedrich Mandl.</p>
+      <p>Friedrich Mandl was an Austrian military arms merchant and munitions manufacturer who was reputedly the third-richest man in Austria. Mandl had close social and business ties to the Italian government, selling munitions to the country, and although like Hedy, his own father was Jewish, had ties to the Nazi regime of Germany. Lamarr wrote that the dictators of both countries attended lavish parties at the Mandl home. Lamarr accompanied Mandl to business meetings, where he conferred with scientists and other professionals involved in military technology. These conferences were her introduction to the field of applied science and nurtured her latent talent in science.</p>
+<p>Lamarr's marriage to Mandl eventually became unbearable, and she decided to separate herself from both her husband and country in 1937.</p>
+<p>After arriving in London in 1937, she met Louis B. Mayer, head of MGM, who was scouting for talent in Europe and managed to impress him enough to secure a $500 a week contract.Mayer persuaded her to change her name to Hedy Lamarr (to distance herself from her real identity, and "the Ecstasy lady" reputation associated with it), choosing the surname in homage to the beautiful silent film star, Barbara La Marr.</p>
+<p>Although Lamarr had no formal training and was primarily self-taught, she tinkered in her spare time on various hobbies and ideas, which included a traffic stoplight and a tablet that would dissolve in water to create a cola flavoured carbonated drink. The beverage was unsuccessful; Lamarr herself said it tasted like Alka-Seltzer</p>
+<p>At 25 Lamarr was investigating  the potential of hormones to increase the size of her breasts. This search introduced her to George Antheil – a composer, musician, and inventor, who also published articles in Esquire on how to interact with women based on their hormones.Their first meeting was in September of 1940. After an exchange about the female anatomy, the conversation shifted to torpedoes. Lamarr was aware of the principles used in radio-controlled torpedoes possily learned during her marriage to Mandl. Their key disadvantage was a flawed guidance system: on discovering a threat, the adversary was able to jam the signal by broadcasting interference on the same frequency.The actress eventually came up with an idea of transmitting the signal on various frequencies.</p>
+<p>Antheil sketched out the idea for the frequency-hopping system, which was to use a perforated paper tape which actuated pneumatic controls (as was already used in player pianos). Antheil was introduced to Samuel Stuart Mackeown, a professor of radio-electrical engineering at Caltech, whom Lamarr then employed for a year to actually implement the idea. Lamarr hired the Los Angeles legal firm of Lyon & Lyon to search for prior knowledge, and to craft the application for the patent which was granted as U.S. Patent 2,292,387 on August 11, 1942, under her married name Hedy Kiesler Markey and then gave it away to the US Army. This idea served the basis for a communication method called Frequency-Hopping Spread Spectrum (FHSS). FHSS paved the way to a handful of modern wireless technologies we use daily.</p>
+<p>Although the U.S. Navy did not adopt the technology until the 1960s, the principles of their work are incorporated into Bluetooth and GPS technology and are similar to methods used in legacy versions of CDMA and Wi-Fi.</p>
+<p>In 1997, Lamarr and Antheil received the Electronic Frontier Foundation Pioneer Award and the Bulbie Gnass Spirit of Achievement Bronze Award, given to individuals whose creative lifetime achievements in the arts, sciences, business, or invention fields have significantly contributed to society. In 2014, Lamarr and Antheil were posthumously inducted into the National Inventors Hall of Fame.</p>
+</div>
+<footer>
+  <p>Special thanks go to <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Hedy_Lamarr">https://en.wikipedia.org/wiki/Hedy_Lamarr</a> and <a target="_blank" href="https://www.kaspersky.co.za/blog/hedy-lamarr/10508/">https://www.kaspersky.co.za/blog/hedy-lamarr/10508/</a> for the information on this page. Please follow the links for more information.</p>
+      </body>  
+ </main> 
+  </html>
