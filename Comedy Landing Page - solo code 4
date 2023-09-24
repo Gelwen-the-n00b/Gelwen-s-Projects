@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <link href="styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+   <meta name="description" content="Product Landing Page" />
+   <title>Product Landing Page</title>
+ </head>
+<body>
+  <!--header, logo and nav-bar-->
+  <header id="header">
+  <div class="logo">
+    <a class="nav-link" href="#spacer"><img  id="header-img" src="https://icons.iconarchive.com/icons/icons8/ios7/256/Music-Music-icon.png">
+    </a></div>
+    <h1>Tinny Trombones</h1>
+    
+    <nav id="nav-bar">   
+        <ul>
+          <li><a class="nav-link" href="#features">Features</a></li>
+          <li><a class="nav-link" href="#how-it-works">How it Works</a></li>
+          <li><a class="nav-link" href="#pricing">Pricing</a></li>
+        </ul>  
+    </nav>
+    </header>
+    <!--legend, email form and submit button-->
+  <div class="spacer" id="spacer"></div>  
+    <section id="legend">
+      <h2>The nastiest, noisiest crap you can buy</h2>
+    <form id="form"  action="https://www.freecodecamp.com/email-submit">
+    <input id="email" name="email" type="email" placeholder="Enter your Email Address" required />
+    <input id="submit" type="submit" value="Get Started" class="button"
+    </form>
+  </section>
+  <!--features section-->
+  <div class="spacer" id="features"></div>
+  <div class="container">
+ <section role="region" aria-labelledby="features">
+   <div class="grid">
+     <div class="icons">
+         <i  class="fa fa-3x fa-fire"></i>
+         </div>
+         <div class="desc">
+          <h2>Dodgy Materials</h2>
+          <p>Our trombones use the cheapest, tinniest brass available from China. Guaranteed to tarnish quickly and sound awful</p></div>
+          </div>      <div class="grid">
+            <div class="icons">  
+         <i  class="fa fa-3x fa-truck"></i></div>
+          <div class="desc"><h2>Slow Shipping</h2>
+          <p>Shipped from China on the slowest, cheapest boat we can find</p></div>
+          </div>
+<div class="grid">
+   <div class="icons">  
+          <i  class="fa fa-3x fa-thumbs-down"></i></div>
+         <div class="desc"> <h2>Quality Assurance</h2>
+          <p>We don't use any</p></div> 
+          </div>    
+        </section></div>
+        <!--how it works and video section-->
+ <section id="how-it-works">
+   <div class="spacer" ></div>
+   <div class="howitworks">
+          <h2 >How it Works</h2>
+          <p>It won't make you sound anything like this</p>
+          </div>
+<div class="video"><iframe id="video" width="684" height="385" src="https://www.youtube.com/embed/khpL08_O1WE" title="Trombone - AronChupa &amp; Little Sis Nora [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+           </div>
+        </section>
+<!--pricing section-->        
+<section id="prices">
+  <div class="spacer" id="pricing"></div>
+  <h2 id="price">Pricing</h2>
+  <div class="price-box-wrapper">        
+          <div class="price-box" id="tenor">
+          <h3>Tenor Trombone</h3>
+          <h4>£600</h4>
+          <p>Overpriced tat</p>
+          <button class="button">Select</button>
+          </div>
+          <div class="price-box" id="bass">
+            <h3>Bass Trombone</h3>
+            <h4>£900</h4>
+            <p>Very overpriced tat</p>
+            <button class="button">Select</button>
+          </div>
+          <div class="price-box" id="valve">
+            <h3>Valve Trombone</h3>
+            <h4>£1200</h4>
+            <p>What the hell is this thing?</p>
+            <button class="button">Select</button>
+          </div>
+          </div>
+        </section>
+  
+</body>
+</html>
